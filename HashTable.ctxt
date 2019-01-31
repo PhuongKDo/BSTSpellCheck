@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HashTable()
+comment1.params=size
+comment1.target=HashTable(int)
+comment10.params=n
+comment10.target=boolean\ isPrime(int)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=arraySize
+comment2.target=void\ allocateArray(int)
+comment3.params=someItem
+comment3.target=int\ hash(java.lang.Object)
+comment4.params=someItem
+comment4.target=int\ findpos(java.lang.Object)
+comment5.params=someItem
+comment5.target=boolean\ contains(java.lang.Object)
+comment6.params=someItem
+comment6.target=boolean\ insert(java.lang.Object)
+comment7.params=
+comment7.target=void\ rehash()
+comment8.params=
+comment8.target=int\ getCollisions()
+comment9.params=n
+comment9.target=int\ nextPrime(int)
+numComments=12
