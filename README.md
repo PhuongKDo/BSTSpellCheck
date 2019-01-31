@@ -1,0 +1,6 @@
+# BSTSpellCheck
+PROJECT TITLE:  CS2 Project 3
+PURPOSE OF PROJECT: Binary Tree and Hash Spell Check
+VERSION or DATE: 12/04/2016
+HOW TO START THIS PROJECT: Java IDE
+AUTHORS: Kieu Do & Irfan Rahman
