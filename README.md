@@ -7,4 +7,4 @@ VERSION or DATE: 12/04/2016
 <br>
 HOW TO START THIS PROJECT: Java IDE
 <br>
-AUTHORS: Kieu Do & Irfan Rahman
+AUTHORS: Phuong Kieu Do & Irfan Rahman
